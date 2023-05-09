@@ -54,11 +54,10 @@ Code:
 
 
 Screenshots:
-![Screenshot_20230509185448](https://github.com/Newbie-coder09/Temp-Convertor/assets/119154806/756c6327-126b-4e09-bd49-8810133d6f5d)
-![Screenshot_20230509185458](https://github.com/Newbie-coder09/Temp-Convertor/assets/119154806/b8342115-c59f-419e-a142-e9b86a3b63c3)
-![Screenshot_20230509185505](https://github.com/Newbie-coder09/Temp-Convertor/assets/119154806/ddaa352c-0234-4045-9ba2-8d04bde95601)
-![Screenshot_20230509185513](https://github.com/Newbie-coder09/Temp-Convertor/assets/119154806/608a5ab6-96d1-402a-9633-92bf8d390439)
-
+![Screenshot_20230509185448](https://github.com/Newbie-coder09/Temp-Convertor/assets/119154806/b31a4640-ba16-4fc5-abb9-575e25792e6a)
+![Screenshot_20230509185458](https://github.com/Newbie-coder09/Temp-Convertor/assets/119154806/bce2f92a-2762-4317-b7cd-03451251c3a5)
+![Screenshot_20230509185505](https://github.com/Newbie-coder09/Temp-Convertor/assets/119154806/636c97c3-0899-45a7-a1f0-ff78b0db9d25)
+![Screenshot_20230509185513](https://github.com/Newbie-coder09/Temp-Convertor/assets/119154806/15740632-d6b4-48c4-8561-054707ad97b6)
 
 **You can get the HTML file from files section**
 
