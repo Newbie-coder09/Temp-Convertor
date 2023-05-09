@@ -7,8 +7,12 @@ Benefits:
 * You can use this code in any school/college assignment or project.
 
 Code(HTML+JS):
+Add this to make it open it all browsers:
 
 	<!doctype html>
+
+Code:
+
 <html>
 
 	<head>
