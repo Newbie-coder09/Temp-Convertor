@@ -8,28 +8,28 @@ Benefits:
 
 Code(HTML+JS):
 
-	       <!doctype html>
+	<!doctype html>
 <html>
 
 	<head>
 		<title>Temperature Convertor</title>
 		<script>
-		function myFunction() {
-		if(temp.value=="Celcius"){
-			document.getElementById("paragraph").innerHTML = "Value in Fahrenheit= "+((input.value*1.8)+32).toFixed(2)+" And Kelvin= "+(parseFloat(input.value)+273.15).toFixed(2);
-		}
-		else if(temp.value=="Fahrenheit"){
-			document.getElementById("paragraph").innerHTML = "Value in Celcius= "+((input.value-32)/1.8).toFixed(2)+" And Kelvin= "+(((input.value-32)/1.8)+273.15).toFixed(2);
-		}
-		else{
-			document.getElementById("paragraph").innerHTML = "Value in Celcius= "+(parseFloat(input.value)-273.15).toFixed(2)+" And Fahrenheit= "+(((parseFloat(input.value)-273.15)*1.8)+32).toFixed(2);
-		}
-		}
-        </script>
-	        </head>
+			function myFunction() {
+				if(temp.value=="Celcius"){
+					document.getElementById("paragraph").innerHTML = "Value in Fahrenheit= "+((input.value*1.8)+32).toFixed(2)+" And Kelvin= "+(parseFloat(input.value)+273.15).toFixed(2);
+				}
+				else if(temp.value=="Fahrenheit"){
+					document.getElementById("paragraph").innerHTML = "Value in Celcius= "+((input.value-32)/1.8).toFixed(2)+" And Kelvin= "+(((input.value-32)/1.8)+273.15).toFixed(2);
+				}
+				else{
+					document.getElementById("paragraph").innerHTML = "Value in Celcius= "+(parseFloat(input.value)-273.15).toFixed(2)+" And Fahrenheit= "+(((parseFloat(input.value)-273.15)*1.8)+32).toFixed(2);
+				}
+			}
+        	</script>
+	</head>
 	        <link href="https://fonts.googleapis.com/css?family=Schoolbell&v1" rel="stylesheet">
 	        <body style="background-color:lightblue;">
-		        <center>
+			<center>
 			        <h1 style="font-family:'Schoolbell', arial, serif">Temperature Convertor</h1>
 			        <img src="https://user-images.githubusercontent.com/119154806/236894300-bf522df6-7fd0-4ce2-8dd6-9e51cf183a4e.png">
 			        <h2 style="font-family:'Schoolbell', arial, serif">Choose and enter value:</h2>
@@ -43,7 +43,7 @@ Code(HTML+JS):
 			        <button type="button" onclick="myFunction()" style="font-family:'Schoolbell', arial, serif">Convert</button>
 		        </center>
 	        </body>
-        </html>
+</html>
 
 
 Note:
