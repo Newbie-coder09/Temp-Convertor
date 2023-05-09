@@ -2,9 +2,11 @@
 
 Temperature Converter, A utility Program that is very helpful and useful at the same time. This Repository has an HTML file that you can modify or use as it is in your website to add the utility of temperation convertion.
 
+
 Benefits:
 * You can simply modify the same code to do any other conversion.
 * You can use this code in any school/college assignment or project.
+
 
 Code(HTML+JS):
 
@@ -51,9 +53,6 @@ Code:
 	</html>
 
 
-Note:
-This code is solely written by Ayush and you can use it as long as you don't consider it as yours'.
-
 Screenshots:
 ![Screenshot_20230509185448](https://github.com/Newbie-coder09/Temp-Convertor/assets/119154806/756c6327-126b-4e09-bd49-8810133d6f5d)
 ![Screenshot_20230509185458](https://github.com/Newbie-coder09/Temp-Convertor/assets/119154806/b8342115-c59f-419e-a142-e9b86a3b63c3)
@@ -62,3 +61,8 @@ Screenshots:
 
 
 **You can get the HTML file from files section**
+
+Note:
+This code is solely written by Ayush and you can use it as long as you don't consider it as yours'.
+
+Please check my other repos too.
