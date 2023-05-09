@@ -14,7 +14,7 @@ Add this to make it open it all browsers:
 
 Code:
 
-<html>
+	<html>
 
 	<head>
 		<title>Temperature Convertor</title>
@@ -48,7 +48,7 @@ Code:
 			        <button type="button" onclick="myFunction()" style="font-family:'Schoolbell', arial, serif">Convert</button>
 		        </center>
 	        </body>
-</html>
+	</html>
 
 
 Note:
