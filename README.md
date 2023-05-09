@@ -8,7 +8,7 @@ Benefits:
 
 Code(HTML+JS):
 
-<!doctype html>
+	<!doctype html>
 <html>
 
 	<head>
